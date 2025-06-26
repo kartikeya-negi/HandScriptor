@@ -36,7 +36,7 @@ To see HandScriptor in action, run the app locally (see instructions below).
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/HandScriptor.git
+git clone https://github.com/kartikeya-negi/HandScriptor
 cd HandScriptor
 
 
